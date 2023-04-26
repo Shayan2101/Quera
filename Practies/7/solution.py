@@ -11,7 +11,7 @@ def add_album(album_name, artist_name, genre, tracks, all_users, all_albums):
 
 
 def query_user_artist(username, artist_name, all_users, all_albums):
-    
+    pass
 
 
 def query_user_genre(username: str, genre: str, all_users: dict, all_albums: dict) -> int:
